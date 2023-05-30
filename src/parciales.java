@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class parciales {
     public static void main(String[] args) throws Exception {
+        //Comentario añadido para Git
         System.out.println("Bienvenido aprendiz, para conocer la calificación final ingrese los siguientes datos a continuación: ");
         Scanner p1 = new Scanner(System.in);
         Scanner p2 = new Scanner(System.in);
